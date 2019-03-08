@@ -1,0 +1,19 @@
+{
+  "name": "CrossBrowserWebextensionReactReduxExample",
+  "version": "0.0.1",
+  "description": "An example of a cross-browser webextension using webextension-toolbox, react, redux and webext-redux.",
+  "scripts": {
+    "dev": "webextension-toolbox dev",
+    "build": "webextension-toolbox build"
+  },
+  "devDependencies": {
+    "webextension-toolbox": "latest"
+  },
+  "dependencies": {
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "react-redux": "^6.0.1",
+    "redux": "^4.0.1",
+    "webext-redux": "^2.0.1"
+  }
+}
