@@ -8,17 +8,17 @@ An example of a cross-browser webextension using webextension-toolbox, react, re
 
 ## Development
 
-    npm run dev chrome
-    npm run dev firefox
-    npm run dev opera
-    npm run dev edge
+    webextension-toolbox dev chrome
+    webextension-toolbox dev firefox
+    webextension-toolbox dev opera
+    webextension-toolbox dev edge
 
 ## Build
 
-    npm run build chrome
-    npm run build firefox
-    npm run build opera
-    npm run build edge
+    webextension-toolbox build chrome
+    webextension-toolbox build firefox
+    webextension-toolbox build opera
+    webextension-toolbox build edge
 
 ## Environment
 
